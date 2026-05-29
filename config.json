@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperpave",
+        "uuid": 14177344,
+        "checksum": "sztx7f"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
